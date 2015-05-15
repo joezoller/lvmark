@@ -1,6 +1,4 @@
 # lvmark
-Automatically exported from code.google.com/p/lvmark
-
 lvmark is a single day project to emulate markdown inside of LabVIEW.  It takes a marked string, and performs
 pattern matching to create property node text effects in a string indicator.
 
